@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RentalZ</string>
+    <string name="property_type_label">Property type</string>
+    <string name="date_text">Created date</string>
+    <string name="bedroom_label">Bedroom</string>
+    <string name="price">Monthly rent price</string>
+    <string name="furniture">Furniture types</string>
+    <string name="notes">Notes</string>
+    <string name="reporter_name">Reporter\'s name</string>
+    <string name="reset_button">Reset</string>
+    <string name="submit_button">Submit</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="property_list">
+        <item>Select an item</item>
+        <item>Flat</item>
+        <item>Studio</item>
+        <item>Bungalow</item>
+        <item>House</item>
+        <item>Mansion</item>
+    </string-array>
+
+    <string-array name="bedroom_list">
+        <item>Select an item</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+
+    <string-array name="furniture_list">
+        <item>Select an item</item>
+        <item>Furnished</item>
+        <item>Unfurnished</item>
+        <item>Part furnished</item>
+    </string-array>
+</resources>
